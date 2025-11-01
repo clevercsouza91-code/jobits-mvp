@@ -26,6 +26,13 @@ export default function LandingPage() {
           A <strong>Jobtis</strong> cria seu posicionamento profissional e te conecta às oportunidades certas usando inteligência artificial.
         </p>
 
+        <div className="mt-10 text-left bg-slate-50 p-4 rounded-lg border text-sm text-slate-700">
+          <p>✔ Criação de currículo profissional com IA</p>
+          <p>✔ Versões prontas pra copiar e colar em plataformas de vagas</p>
+          <p>✔ Mapa de Soft Skills (seus pontos fortes sem clichê)</p>
+          <p>✔ Simulação de entrevista e feedback real</p>
+        </div>
+
         <Link
           href="/login"
           className="mt-8 inline-block bg-[#3546AB] text-white px-8 py-3 rounded-md font-medium text-lg hover:bg-[#2f3b97] transition"
